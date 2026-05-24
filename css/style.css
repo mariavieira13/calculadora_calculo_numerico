@@ -1,0 +1,11 @@
+body { background-color: #f8f9fa; }
+
+.nav-pills .nav-link.active { background-color: #3a88a7; color: #ffffff; }
+.nav-link { color: #3a88a7; }
+.btn-primary { background-color: #3a88a7; border-color: #3a88a7; }
+.btn-primary:hover { background-color: #2d6a83; border-color: #2d6a83; }
+.border-primary { border-color: #3a88a7; }
+        
+.card { border: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.method-section { display: none; }
+.method-section.active { display: block; }
